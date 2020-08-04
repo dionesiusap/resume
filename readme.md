@@ -1,4 +1,4 @@
-# Dionesiusap's Resume
+# Dionesius Agung's Resume
 <div align="center">
   <a href="https://raw.githubusercontent.com/dionesiusap/resume/master/src/resume.pdf">
     <img alt="resume.pdf" src="https://img.shields.io/badge/resume-pdf-green.svg" />
@@ -10,6 +10,6 @@ This resume is made based on a slightly modified version of [posquit0](https://g
 ## View my Resume
 Click **[here](https://raw.githubusercontent.com/dionesiusap/resume/master/src/resume.pdf)** to view my resume.
 
-## Preview
+<!-- ## Preview
 Here is the preview of the build result.  
-![preview](preview_01.jpg)
+![preview01](preview_01.jpg) ![preview02](preview_02.jpg) -->
