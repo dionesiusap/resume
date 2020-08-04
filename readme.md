@@ -5,8 +5,11 @@
   </a>
 </div>
 
-Huge thanks to [posquit0](https://github.com/posquit0) for the [Awesome-CV](https://github.com/posquit0/Awesome-CV).
+This resume is made based on a slightly modified version of [posquit0](https://github.com/posquit0)'s [Awesome-CV](https://github.com/posquit0/Awesome-CV).
+
+## View my Resume
+Click **[here](https://raw.githubusercontent.com/dionesiusap/resume/master/src/resume.pdf)** to view my resume.
 
 ## Preview
 Here is the preview of the build result.  
-![preview](preview.jpg)
+![preview](preview_01.jpg)
