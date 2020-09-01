@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.3.12)  27 AUG 2020 23:43
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.3.12)  1 SEP 2020 13:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1203,10 +1203,6 @@ LaTeX Info: Redefining \nameref on input line 81.
 \@outlinefile=\write6
 \openout6 = `resume.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \headertextwidth=\skip79
 \headerphotowidth=\skip80
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -1238,7 +1234,7 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 10.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/bx/n' will be
-(Font)              scaled to size 9.0pt on input line 12.
+(Font)              scaled to size 9.0pt on input line 11.
 ) (./resume/education.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 27.
@@ -1285,7 +1281,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 108.
 Here is how much of TeX's memory you used:
  38140 strings out of 494540
  750950 string characters out of 6166779
- 960012 words of memory out of 5000000
+ 961127 words of memory out of 5000000
  41533 multiletter control sequences out of 15000+600000
  532746 words of font info for 85 fonts, out of 8000000 for 9000
  264 hyphenation exceptions out of 8191
